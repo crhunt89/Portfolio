@@ -13,6 +13,47 @@
   }
 }
 
+.banner{
+  background-color: black;
+  color: whitesmoke;
+  width: auto;
+}
+
+.control{
+ background: linear-gradient(grey, black);
+ color: whitesmoke;
+}
+
+.tron{
+  height: 75vh;
+  background: url(./Assets/computer.jpg);
+  background-size: contain;
+  color: whitesmoke;
+  margin-bottom: 0px;
+}
+
+.about{
+  background-color: black;
+}
+
+.container{
+  background-color: black;
+}
+
+.row{
+  color: whitesmoke;
+}
+
+img{
+  width: auto;
+  height: 500px;
+  max-height: 500px;
+}
+
+h3{
+  font-weight: bolder;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
