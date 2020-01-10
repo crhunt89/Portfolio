@@ -1,6 +1,10 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav'
+// import About from './About';
+// import Projects from './Projects';
+// import Other from './Other';
+
 const Navigation = () =>{
   return(
     <Navbar className = "control" fixed = "top" variant = "dark" bg = "primary" expand="lg">
